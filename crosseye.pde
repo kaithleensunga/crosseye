@@ -1,4 +1,3 @@
-//add crosseye code here
 //left eye
 //white of the eye
 size(800,500);
